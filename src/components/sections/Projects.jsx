@@ -54,7 +54,7 @@ export const Projects = () => {
                 and interactive reports.
               </p>
               <div className="flex flex-wrap gap-2 mb-4">
-                {["Python", "TensorFlow", "D3.js", "Flask"].map((tech, key) => (
+                {["Python", "TensorFlow", "D3.js", "Flask", "Machine Learning"].map((tech, key) => (
                   <span
                     key={key}
                     className="
